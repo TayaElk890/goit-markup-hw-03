@@ -84,13 +84,13 @@ img {
 .navigation-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .navigation-list .link {
   font-weight: 500;
   color: #2e2f42;
   letter-spacing: 0.02em;
   gap: 40px;
+  padding: 24px 0;
 }
 .navigation-list .link:hover {
   color: #404bbf;
@@ -104,12 +104,12 @@ img {
 }
 .social-list {
   display: flex;
+  gap: 40px;
+  padding: 24px 0;
 }
 
 .social-link {
   color: #434455;
-  margin-left: 40px;
-  padding: 24px 0;
 }
 
 .social-link:hover {
